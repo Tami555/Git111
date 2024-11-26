@@ -8,3 +8,4 @@ print('hello world7')
 
 if True:
     print('hello')
+    print('hello2')
